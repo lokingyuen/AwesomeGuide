@@ -15,31 +15,31 @@
 
 建議打開開機啟動，這兩個選項都要打開
 
-<img src="https://s2.loli.net/2022/10/08/oxD7PuynbQ8LSJ2.png" > 
+<img src="https://s2.loli.net/2022/10/08/oxD7PuynbQ8LSJ2.png" width="660">
 
 ### 基本操作
 
 #### 截圖：快捷键（默认为 F1），Snipaste 有智能選取功能，點擊左鍵選定。
 
-<img src="https://s2.loli.net/2022/10/08/GIbgXknDsQLVp1Z.webp" > 
+<img src="https://s2.loli.net/2022/10/08/GIbgXknDsQLVp1Z.webp" width="660">
 
 #### 贴图
 
 使圖片成為一個窗口並置頂顯示：
 
-<img src="https://s2.loli.net/2022/10/08/mJbskWwIQ6nKgqB.gif" > 
+<img src="https://s2.loli.net/2022/10/08/mJbskWwIQ6nKgqB.gif" width="660">
 
 貼圖窗口可以旋轉、縮放、半透明、鼠標穿透：
 
-<img src="https://s2.loli.net/2022/10/08/4GDko7KNPsSFJze.gif" > 
+<img src="https://s2.loli.net/2022/10/08/4GDko7KNPsSFJze.gif" width="660">
 
 截图记录回放：
 
-<img src="https://s2.loli.net/2022/10/08/bcBaYMOKoPe5G4j.gif" > 
+<img src="https://s2.loli.net/2022/10/08/bcBaYMOKoPe5G4j.gif" width="660">
 
 標記筆功能：
 
-<img src="https://s2.loli.net/2022/10/08/uenPqAMUgNkXKOI.gif" > 
+<img src="https://s2.loli.net/2022/10/08/uenPqAMUgNkXKOI.gif" width="660">
 
 #### 取消
 当前截图： 任何时刻按 Esc

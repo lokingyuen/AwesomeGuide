@@ -15,7 +15,7 @@
 
 使用一個廣告測試頁面，比出效果
 
-<img src="https://s2.loli.net/2022/10/13/5sakXWnqRGu4tPm.png" > 
+<img src="https://s2.loli.net/2022/10/13/5sakXWnqRGu4tPm.png" width="660">
 
 ## 安裝插件
 
@@ -27,11 +27,11 @@
 
 AdGuard 廣告攔截器插件下載安裝完成後，無需註冊和登錄就可以直接啟用，用戶也可以對該插件的功能進行自定義設置。
 
-<img src="https://s2.loli.net/2022/10/13/p7iYVgXtkTQRzCs.png" > 
+<img src="https://s2.loli.net/2022/10/13/p7iYVgXtkTQRzCs.png" width="660">
 
 若是想查看 AdGuard 廣告攔截器插件攔截網頁廣告、彈窗的記錄，可以直接點擊瀏覽器上方的綠色盾牌圖片進行打開。
 
-<img src="https://s2.loli.net/2022/10/13/2bghcdl49ZvkqRM.jpg" > 
+<img src="https://s2.loli.net/2022/10/13/2bghcdl49ZvkqRM.jpg" width="660">
 
 ## End
 
