@@ -13,11 +13,11 @@
 
 1.快速跳過前面兩項（語言）設置，直到選擇聯網頁面，**切記不要連接網線和WIFI**。
 
-![Snipaste_2023-12-10_20-57-35.01.jpg](https://s2.loli.net/2023/12/10/WYxRuza9ieJ8nIE.jpg)
+<img src="https://s2.loli.net/2023/12/10/WYxRuza9ieJ8nIE.jpg" width="660">
 
 2.先進入需要連網的介面，按下鍵盤上的**「shift + f10」**，可以看到CMD窗口。
 
-![Snipaste_2023-12-10_20-59-33.02.jpg](https://s2.loli.net/2023/12/10/rvptB7ioenFIxMf.jpg)
+<img src="https://s2.loli.net/2023/12/10/rvptB7ioenFIxMf.jpg" width="660">
 
 3.按下後會打開命令提示符，在其中輸入“oobe\bypassnro”並按下回車。
 
@@ -25,21 +25,21 @@
 oobe\bypassnro
 ```
 
-![Snipaste_2023-12-10_21-00-21.03.jpg](https://s2.loli.net/2023/12/10/SbPw1zxjnWXJy3E.jpg)
+<img src="https://s2.loli.net/2023/12/10/SbPw1zxjnWXJy3E.jpg" width="660">
 
 3.若失敗，可以重複上面的方法打開cmd，輸入“OOBE\BypassNRO.cmd”再回車。
 
 4.使用上述指令後會重新啟動。
 
-![Snipaste_2023-12-10_21-00-45.04.jpg](https://s2.loli.net/2023/12/10/VMxk4P3RjwQthGK.jpg)
+<img src="https://s2.loli.net/2023/12/10/VMxk4P3RjwQthGK.jpg" width="660">
 
 5.再進入連網介面後可以發現，右下角多了一個「我沒有internet連線」。
 
-![Snipaste_2023-12-10_21-01-21.05.jpg](https://s2.loli.net/2023/12/10/jZtVsEYKP3evgh1.jpg)
+<img src="https://s2.loli.net/2023/12/10/jZtVsEYKP3evgh1.jpg" width="660">
 
 6.點擊它之後進入下圖介面，再點擊“繼續執行受限設定”，就可以跳過連網激活，進行後續的設定登入。
 
-![Snipaste_2023-12-10_21-01-45.06.jpg](https://s2.loli.net/2023/12/10/ViAxIX1eoSuaBOz.jpg)
+<img src="https://s2.loli.net/2023/12/10/ViAxIX1eoSuaBOz.jpg" width="660">
 
 
 ## ~~操作方法（二）~~ 已失效
