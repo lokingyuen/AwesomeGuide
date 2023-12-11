@@ -26,11 +26,11 @@ Hi，大家好。
 
 <img src="https://s2.loli.net/2023/12/11/Hb3zNspKoOZqaxg.jpg" width="660"></br>
 
-1.3.選擇**U盤**，下一步1
+1.4.選擇**U盤**，下一步
 
 <img src="https://s2.loli.net/2023/12/11/Ffz94O2GPIoSEC6.jpg" width="660"></br>
 
-1.4.選擇正確的**U盤 盤符**，下一步
+1.5.選擇正確的**U盤 盤符**，下一步
 
 <img src="https://s2.loli.net/2023/12/11/mfiJWAQ3XdOpk9t.jpg" width="660"></br>
 
