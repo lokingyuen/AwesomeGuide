@@ -1,4 +1,4 @@
-# windows10 官網下載、安裝與激活
+# Windows10 官網下載、安裝與引導
 
 Hi，大家好。
 對於小白用戶，裝系統是比較頭疼的事，所以今天寫一個簡單易懂的裝系統教程。</br>
@@ -57,7 +57,7 @@ Hi，大家好。
 
 <img src="https://s2.loli.net/2023/12/11/cqAlzJ72RFGWN9L.jpg" width="660">
 
-2.4.選擇 **我沒有產品密匙**
+2.4.選擇 **我沒有產品密匙**,現在沒 不代表我以後沒，哼
 
 <img src="https://s2.loli.net/2023/12/11/CmNdEkgn9Buieoq.jpg" width="660">
 
