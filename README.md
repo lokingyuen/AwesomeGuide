@@ -8,8 +8,8 @@
 
 **十二月**
 
-- 第 8 期：[Windows10 官網下載、安裝與激活](docs/issue-8.md)
-- 第 7 期：[Windows11 跳過聯網激活](docs/issue-7.md)
+- 第 8 期：[Windows10 官網下載、安裝與引導](docs/issue-8.md)
+- 第 7 期：[Windows11 跳過聯網引導](docs/issue-7.md)
 - 第 6 期：[Snipaste 一個簡單但強大的貼圖工具](docs/issue-6.md)
 - 第 5 期：[ReNamer 批次更改檔名軟件](docs/issue-5.md)
 - 第 4 期：[Potplayer 強大的本地視頻播放器](docs/issue-4.md)
