@@ -19,33 +19,49 @@
 
 <img src="https://s2.loli.net/2022/10/08/nHogOxeMa7GlYwt.png" width="660">
 
+</br>
+
 ### 操作
 
 1.將需要壓縮的圖片 拖進預覽區
 
 <img src="https://s2.loli.net/2022/10/08/9lSo3DzQYeVRZBv.png" width="660">
 
+</br>
+
 2.在對應的圖片類型的 ```Quality``` 中輸入需要壓縮後的圖片 質量。（按需選填）
 
 <img src="https://s2.loli.net/2022/10/08/nQFNeWM3UBugz9w.png" width="660">
+
+</br>
 
 3.在```Resize``` 中選擇需要壓縮的 圖片像素。（按需選填）
 
 <img src="https://s2.loli.net/2022/10/08/vVDK7yRCli5w1LI.png" width="660">
 
+</br>
+
 4.在```output``` 里選擇輸出路徑。
 
 <img src="https://s2.loli.net/2022/10/08/sqBoK6bgmUyH71C.png" width="660">
+
+</br>
 
 5.最後，確認無誤，點擊 ```Compress```。
 
 <img src="https://s2.loli.net/2022/10/08/oVvyJslNKXjQt6U.png" width="660">
 
+</br>
+
 6.效果演示
 
 <img src="https://s2.loli.net/2022/10/08/Kbs3JNUGhWwXLfB.png" width="660">
 
+</br>
+
 <img src="https://s2.loli.net/2022/10/08/rHs1Y5Bzd4qR2fp.png" width="660">
+
+</br>
 
 ### End
 

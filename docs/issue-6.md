@@ -17,11 +17,15 @@
 
 <img src="https://s2.loli.net/2022/10/08/oxD7PuynbQ8LSJ2.png" width="660">
 
+</br>
+
 ### 基本操作
 
 #### 截圖：快捷键（默认为 F1），Snipaste 有智能選取功能，點擊左鍵選定。
 
 <img src="https://s2.loli.net/2022/10/08/GIbgXknDsQLVp1Z.webp" width="660">
+
+</br>
 
 #### 贴图
 
@@ -29,17 +33,25 @@
 
 <img src="https://s2.loli.net/2022/10/08/mJbskWwIQ6nKgqB.gif" width="660">
 
+</br>
+
 貼圖窗口可以旋轉、縮放、半透明、鼠標穿透：
 
 <img src="https://s2.loli.net/2022/10/08/4GDko7KNPsSFJze.gif" width="660">
+
+</br>
 
 截图记录回放：
 
 <img src="https://s2.loli.net/2022/10/08/bcBaYMOKoPe5G4j.gif" width="660">
 
+</br>
+
 標記筆功能：
 
 <img src="https://s2.loli.net/2022/10/08/uenPqAMUgNkXKOI.gif" width="660">
+
+</br>
 
 #### 取消
 当前截图： 任何时刻按 Esc

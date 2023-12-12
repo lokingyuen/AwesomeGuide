@@ -17,7 +17,11 @@ Potplayer界面非常地簡潔，軟件體積小，佔用內存極低，擁有�
 
 <img src="https://s2.loli.net/2022/10/07/iI7bxYokXOjNzR3.png" width="660">
 
+</br>
+
 <img src="https://s2.loli.net/2022/10/07/AVaqmKjy6LYbric.png" width="660">
+
+</br>
 
 
 ### 基本操作
@@ -57,6 +61,8 @@ Potplayer界面非常地簡潔，軟件體積小，佔用內存極低，擁有�
 
 <img src="https://s2.loli.net/2022/10/07/wrpQDxoaBthA3My.png" width="660">
 
+</br>
+
 #### 播放
 
 1.播放窗口大小-維持原樣， 每次打開新視頻就不會改變你的窗口啦。
@@ -67,13 +73,19 @@ Potplayer界面非常地簡潔，軟件體積小，佔用內存極低，擁有�
 
 <img src="https://s2.loli.net/2022/10/07/nxO9XaLowA7kceH.png" width="660">
 
+</br>
+
 #### 補幀
 
 我們補幀的目的就是把把視頻從24幀提升到60幀或者更高，能夠很直觀欣賞到流暢的畫面。
 
 <img src="https://s2.loli.net/2022/10/07/aH9VGUzFMS7Cji5.png" width="660">>
 
+</br>
+
 <img src="https://s2.loli.net/2022/10/07/te5abwsW1NOpHiZ.png" width="660">
+
+</br>
 
 ### End
 這一章講的都是很入門但卻很實用的內容，大家不妨自己試試，僅僅需要調整內置的各類設置，就可以讓potplayer更加貼合自己的使用習慣。

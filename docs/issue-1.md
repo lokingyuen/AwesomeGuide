@@ -35,10 +35,14 @@ move "%%i" "C:\***\%%~ni\"
 ## 效果展示
 運行前 ----->運行后<br>
 
-<img src="https://s2.loli.net/2022/10/05/FBd6ARsWfVq9ylL.jpg" width="660"><br>
+<img src="https://s2.loli.net/2022/10/05/FBd6ARsWfVq9ylL.jpg" width="660">
+
+</br>
 
 
 <img src="https://s2.loli.net/2022/10/05/UzKLS2YDeMGOqls.jpg" width="660">
+
+</br>
 
 
 其實這是 腳本（.bat）的其中一項小功能，同學們要勇於發掘，善用Google老師，科技改變生活。

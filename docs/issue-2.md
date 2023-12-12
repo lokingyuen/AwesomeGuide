@@ -17,6 +17,8 @@
 
 <img src="https://s2.loli.net/2022/10/13/5sakXWnqRGu4tPm.png" width="660">
 
+</br>
+
 ## 安裝插件
 
 1.如果有條件，可以直接在谷歌 [Chrome 商店](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)下載安裝。如果無法訪問 Chrome 商店，請在擴展迷下載AdGuard 廣告攔截器插件的安裝包，解壓後將 crx 文件安裝到你的chrome上。
@@ -29,9 +31,13 @@ AdGuard 廣告攔截器插件下載安裝完成後，無需註冊和登錄就可
 
 <img src="https://s2.loli.net/2022/10/13/p7iYVgXtkTQRzCs.png" width="660">
 
+</br>
+
 若是想查看 AdGuard 廣告攔截器插件攔截網頁廣告、彈窗的記錄，可以直接點擊瀏覽器上方的綠色盾牌圖片進行打開。
 
 <img src="https://s2.loli.net/2022/10/13/2bghcdl49ZvkqRM.jpg" width="660">
+
+</br>
 
 ## End
 
