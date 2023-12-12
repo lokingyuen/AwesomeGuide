@@ -8,6 +8,7 @@
 
 **十二月**
 
+- 第 9 期：[Windows10/11 KMS最純淨的激活方式](docs/issue-9.md)
 - 第 8 期：[Windows10 官網下載、安裝與引導](docs/issue-8.md)
 - 第 7 期：[Windows11 跳過聯網引導](docs/issue-7.md)
 - 第 6 期：[Snipaste 一個簡單但強大的貼圖工具](docs/issue-6.md)
